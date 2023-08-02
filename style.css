@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: center;
+    padding: 30px 0;
+  }
+  
+  .feature {
+    text-align: center;
+    margin: 0 20px;
+  }
+  
+  center {
+    text-align: center;
+  }
+  
+  .usage.center {
+    text-align: center;
+  }
+  
+  .usage pre {
+    background-color: #eee;
+    padding: 5px;
+    font-family: "Courier New", monospace;
+    margin: 10px 0;
+  }
+  
+  .customization {
+    text-align: center;
+    padding: 30px 0;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+
+nav {
+    display: flex;
+    align-items: center;
+  }
+  
+  nav a {
+    margin: 0 10px;
+  }
+  
+  nav img {
+    height: 30px;
+  }
+  
+  .credits {
+    text-align: center;
+    padding: 30px 0;
+  }
+.specialty {
+    text-align: center;
+    padding: 30px 0;
+  }
+a{
+    color: blue;
+}
+  
